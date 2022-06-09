@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`vérifiera les comparateurs et passera 1`] = `
+Object {
+  "createdAt": Any<Date>,
+  "id": Any<Number>,
+  "name": "LeBron James",
+}
+`;
+
+exports[`vérifiera les valeurs et passera 1`] = `
+Object {
+  "createdAt": Any<Date>,
+  "name": "Bond... James Bond",
+}
+`;
